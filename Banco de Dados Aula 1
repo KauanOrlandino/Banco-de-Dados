@@ -1,0 +1,24 @@
+O que são dados? São palavras, números e Observações.
+
+O que é um Banco de Dados? É um sistema que guarda dados. Exemplos: nomes, números e informaçoes de uma empresa ou pessoa.
+
+Para que servem os Bancos de Dados? Para armazenar dados, proteger dados, organização, atualizar dados, consultar dados.
+
+Que tipos de problemas resolvemos com a utilização de Banco de Dados?  Desorganização, dados duplicados, falta de segurança e controle de acesso.
+
+O que são SGBD´s? Sistema Gerenciador de Banco de Dados. Serve para criar, organizar, proteger um banco de dados.
+
+O que é a linguagem SQL?  É a linguagem padrão utilizada para criar, consultar, atualizar e gerenciar dados no banco de dados.
+
+O que é a linguagem NoSQL? É um termo usado para descrever um sistema de banco de dados não relacional, e não uma linguagem de programação ou de consulta específica.
+
+Explique a arquitetura de Três camadas (Cliente, Aplicação, Servidor) :
+
+Camada Cliente :
+É a parte que o usuário vê e utiliza, como telas, botões, menus e formulários. Ela recebe os comandos do usuário e apresenta os resultados.
+
+Camada de Aplicação :
+É responsável por processar as informações e aplicar as regras do sistema. Por exemplo, verificar um login, calcular um preço ou validar uma compra.
+
+Camada Servidor:
+É responsável por armazenar e recuperar os dados do sistema, geralmente utilizando um banco de dados como MySQL ou PostgreSQL.
