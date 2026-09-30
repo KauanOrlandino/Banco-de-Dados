@@ -22,3 +22,63 @@ Camada de Aplicação :
 
 Camada Servidor:
 É responsável por armazenar e recuperar os dados do sistema, geralmente utilizando um banco de dados como MySQL ou PostgreSQL.
+
+3 Exemplos de onde o Banco de Dados pode ser usado:
+
+Exemplo 1:                                                  
+
+      Escola
+
+Alunos 
+
+Professores  
+
+Turmas  
+
+Disciplinas
+
+Notas
+
+Matrículas
+
+Horários
+
+Avaliações
+
+Exemplo 2:
+
+Mercado
+
+Clientes
+
+Pagamentos
+
+Fornecedor
+
+Produtos
+
+Categorias
+
+Vendas
+
+Itens Vendidos
+
+Funcionários
+
+Exemplo 3:
+
+Medicos
+
+Pacientes
+
+Consultas
+
+Medicamentos
+
+Quartos
+
+Setores
+
+Prescrições
+
+Internações
